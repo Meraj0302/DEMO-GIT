@@ -1,3 +1,11 @@
 print("test this is a test file")
 print("this is adding line for this file")
-print("adding another line")
+
+print("git int ")
+print ("git status")
+print("git add")
+print("git commit -m ")
+print ("git restore")
+print("git remote -v")
+print("git push origin main")
+print("git pull origin main")
